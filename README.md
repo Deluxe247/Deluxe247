@@ -1,4 +1,4 @@
-### Hi my name is Randy 👋
+### Hi my name is Randy Kith👋
 I’m currently working on network automation
 
 <!--
